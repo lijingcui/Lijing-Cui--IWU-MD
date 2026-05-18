@@ -29,5 +29,4 @@ Description
 
 https://www.canva.com/design/DAHJ8b6-FoA/ROj44x0Sx9MMUzmJWhs7Zw/edit?ui=e30
 
-Management Review, 61(4), 5–14.
-Heifetz, R., Grashow, A., & Linsky, M. (2009). The practice of adaptive leadership. Harvard Business Press.
+
