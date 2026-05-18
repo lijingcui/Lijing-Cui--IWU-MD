@@ -27,6 +27,6 @@ This artifact presents a major machine learning algorithms.
 Description
 
 
-https://www.canva.com/design/DAHJ8b6-FoA/ROj44x0Sx9MMUzmJWhs7Zw/edit?ui=e30
+<https://www.canva.com/design/DAHJ8b6-FoA/ROj44x0Sx9MMUzmJWhs7Zw/edit?ui=e30>
 
 
