@@ -33,4 +33,5 @@ Description
 ## Artifact2
 Artifact Title
 neural network
-<https://github.com/lijingcui/Lijing-Cui--IWU-MD/blob/d2f59932572a6935331fac460ca2d013725ad647/Neural_Network_Visual_Presentation%20(1).pptx>
+[View the Presentation PDF](Neural_Network_Visual_Presentation.pptx.pdf)
+<https://github.com/lijingcui/Lijing-Cui--IWU-MD/blob/c06fa566f9f71f10e58bc9dcde3eec54d1a26fa5/Neural_Network_Visual_Presentation.pptx.pdf>
