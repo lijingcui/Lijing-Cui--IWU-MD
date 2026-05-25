@@ -34,4 +34,3 @@ Description
 Artifact Title
 neural network
 [View the Presentation PDF](Neural_Network_Visual_Presentation.pptx.pdf)
-<https://github.com/lijingcui/Lijing-Cui--IWU-MD/blob/c06fa566f9f71f10e58bc9dcde3eec54d1a26fa5/Neural_Network_Visual_Presentation.pptx.pdf>
