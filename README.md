@@ -38,4 +38,4 @@ neural network
 ## Artifact3
 artifact title
 llm training
-<https://github.com/lijingcui/Lijing-Cui--IWU-MD/blob/da7ae29c4d0468ead0409003186ac3fe2a32b58b/Lijing_Cui_LLM_Training_7x7%20(1).pptx>
+<https://github.com/lijingcui/Lijing-Cui--IWU-MD/blob/9aec4088f298e1f1ecdbc9a0cd7837153eb5dedc/Lijing_Cui_LLM_Training_7x7.pptx.pdf>
