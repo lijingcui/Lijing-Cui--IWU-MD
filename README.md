@@ -47,5 +47,5 @@ The graphic design emphasizes the relationship between explainability, validatio
 The visual flow of the presentation was designed to show how trust in AI is established through multiple layers. First, transparency addresses the “why” behind AI decisions. Second, validation confirms that the model performs consistently under different conditions. Third, performance metrics quantify effectiveness and reliability. Finally, current industry solutions illustrate how organizations are actively implementing explainability frameworks to meet regulatory requirements and promote responsible AI adoption.
 
 Overall, explainability, validation, and performance measurement are essential components of trustworthy AI. By combining these practices, organizations can improve accountability, reduce risks, meet compliance standards, and encourage broader acceptance of AI technologies across industries such as healthcare, finance, transportation, and public services.
-<>
+<https://github.com/lijingcui/Lijing-Cui--IWU-MD/blob/8512205e03028b46ded0c6e555b64110dbb213a1/Explainable_AI_Presentation.pdf>
 
