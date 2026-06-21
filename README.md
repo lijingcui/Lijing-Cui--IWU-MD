@@ -48,4 +48,13 @@ The visual flow of the presentation was designed to show how trust in AI is esta
 
 Overall, explainability, validation, and performance measurement are essential components of trustworthy AI. By combining these practices, organizations can improve accountability, reduce risks, meet compliance standards, and encourage broader acceptance of AI technologies across industries such as healthcare, finance, transportation, and public services.
 <https://github.com/lijingcui/Lijing-Cui--IWU-MD/blob/8512205e03028b46ded0c6e555b64110dbb213a1/Explainable_AI_Presentation.pdf>
+##Artifact5
+https://github.com/lijingcui/Lijing-Cui--IWU-MD/blob/0894a402bccfb92668eb79b192ab3c63176e5736/Pre-trained%20Model%20Comparison%20Chart.pdf
+This analysis compared five widely used pre-trained models across three AI domains: Natural Language Processing (BERT and GPT-3), Computer Vision (MobileNetV3 and EfficientNet-B7), and Tabular Data Analytics (XGBoost). The objective was to evaluate the trade-offs among model size, accuracy, inference speed, and explainability to support informed model selection.
+
+The findings indicate that no single model is optimal for every application. GPT-3 provides outstanding language generation capabilities but requires significant computational resources and has limited explainability. BERT offers strong language understanding with lower resource requirements, making it suitable for educational applications such as essay scoring and grammar feedback. In computer vision, MobileNetV3 prioritizes speed and efficiency for mobile devices, while EfficientNet-B7 delivers higher accuracy at the cost of increased computational demands. XGBoost remains highly effective for structured business data due to its strong predictive performance, fast inference, and excellent interpretability.
+
+The decision matrix was designed to present information in a clear and visually accessible format, allowing stakeholders to compare models quickly. Key criteria were selected because they directly influence deployment decisions, operational costs, and user experience. The use of rankings and visual indicators helps highlight the trade-offs between performance and efficiency.
+
+Overall, the analysis demonstrates that model selection should align with specific business goals, available resources, and explainability requirements rather than focusing solely on accuracy.
 
